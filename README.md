@@ -1,7 +1,7 @@
 # EarthSystemModelingUG
 Notes, slides and demos for undergraduate Earth System Modeling Course at Georgia Tech
 
-This repository includes slides, notes and code demonstrations from Earth System Modleing (EAS 4610) at Georgia Tech, an introduction to numerical methods for undergraduate Earth and Atmopsheric Science students.
+This repository includes slides, notes and code demonstrations from Earth System Modleing (EAS 4610) at Georgia Tech, an introduction to numerical methods for undergraduate Earth and Atmospheric Science students.
 
 The demo scripts in this repository include in-class demonstrations of certain concepts or numerical models. Where available, I have included relevant board lecture notes that explain the model or concept being demonstrated in the lectures.
 
